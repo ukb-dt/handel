@@ -59,12 +59,12 @@ If we treat the composers as climbers in the Virunga ranges:
 
 <picture>
   <!-- Mobile-optimized version (optional; remove if you only have one file) -->
-  <source srcset="global/volcano.jpg" media="(max-width: 600px)">
+  <source srcset="volcano/volcano.jpg" media="(max-width: 600px)">
   <!-- Desktop -->
   <img 
-    src="global/maxima.jpg" 
+    src="volcano/volcano.jpg" 
     alt="global maxima" 
-    style="width:100%; height:auto; display:block; border-radius:12px;"
+    style="width:75%; height:auto; display:block; border-radius:12px;"
   >
 </picture>
 
